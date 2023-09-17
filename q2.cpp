@@ -1,3 +1,5 @@
+2. Write a program to implement binary integer addition and multiplication.
+
 #include <iostream>
 #include <string>
 using namespace std;
