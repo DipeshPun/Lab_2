@@ -1,3 +1,5 @@
+4 Write a program to find prime factors of a number.
+
 #include <iostream>
 using namespace std;
 // Function to print prime factors of a number
