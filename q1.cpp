@@ -1,3 +1,5 @@
+1. Write a program to implement Euclidean and Extended Euclidean algorithms.
+    
 #include <iostream>
 using namespace std;
 int euclidean(int a, int b) {
