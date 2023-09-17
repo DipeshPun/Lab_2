@@ -1,5 +1,6 @@
-#include <iostream>
+3. Write a program to implement Boolean matrix operations meet.
 
+#include <iostream>
 using namespace std;
 
 // Function to perform Boolean matrix meet (logical AND)
