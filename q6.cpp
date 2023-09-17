@@ -1,3 +1,5 @@
+6 Write a program to find and implement the Chinese Remainder Theorem.
+
 #include <iostream>
 using namespace std;
 
