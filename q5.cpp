@@ -1,3 +1,5 @@
+5 Write a program to implement the concept of linear congruence.
+
 #include <iostream>
 using namespace std;
 // Function to calculate the greatest common divisor using the Euclidean algorithm
